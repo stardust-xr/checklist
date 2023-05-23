@@ -2,12 +2,12 @@ var data = [
     {
         id: `a-algemene-broadcast`,
         nederlands: {
-            titel: `Ga in de ALGEMENE BROADCAST`,
+            titel: `Ga in de ALGEMENE TELEGRAM BROADCAST`,
             beschrijving: `Dat is <a href="https://t.me/+-1BG92MkKMk2ODc0">dit telegramkanaal</a> met de titel "Stop Sub #12".`,
             toelichting: `Voor veel acties, en ook voor deze <span class="a-12">A12-actie</span>, is er een grote <em>signal of telegram-groep</em> waar belangrijke mededelingen worden gepost.`,
         },
         engels: {
-            titel: `Join the GENERAL BROADCAST`,
+            titel: `Join the GENERAL TELEGRAM BROADCAST`,
             beschrijving: `It's <a href="https://t.me/+-1BG92MkKMk2ODc0">this telegram group</a> with the title "Stop Sub #12".`,
             toelichting: `For most actions, there is a big broadcast channel where important announcement are made. Always join them, and read the information carefully.`,
         }
@@ -16,13 +16,13 @@ var data = [
         id: `a-vingergroep`,
         nederlands: {
             titel: `Ga in de VINGERGROEP`,
-            beschrijving: `Dat is de signal groep waar je als het goed is al in zit. Als dat niet zo is, vul dan snel <a href="https://cryptpad.organise.earth/form/#/2/form/view/B7RPn5C8rcNiXVlWx58yvbsU0c2Li7ZukhOyuGpre88/">dit formulier</a> in!`,
+            beschrijving: `Dat is de signal groep waar je als het goed is al in zit. Zo niet, neem dan contact op met Stardust!`,
             toelichting: `Bij grote acties wordt er soms gewerkt met 'vingers': dat zijn groepen die samen voorbereiden en naar de actielocatie lopen. Dit vergroot de veiligheid en de kans dat zo veel mogelijk rebellen op de actie aankomen.`,
         },
         engels: {
-            titel: `Join the FINGER GROUP`,
-            beschrijving: `It is the signal-group that you probably are in already. If not, please quickly fill in <a href="https://cryptpad.organise.earth/form/#/2/form/view/B7RPn5C8rcNiXVlWx58yvbsU0c2Li7ZukhOyuGpre88/">this form</a> and join a finger!`,
-            toelichting: `Larger actions sometimes use 'fingers'. These are groups that prepare for the action together and move towards the place of action together. This increases security and our chances of succes.`,
+            titel: `Make sure to be in a FINGER signal group`,
+            beschrijving: `It is the signal-group that you probably are in already. If not, please contact Stardust!`,
+            toelichting: `Larger actions sometimes use 'fingers'. These are groups that prepare for the action together and move towards the place of action together. This increases security and our chances of success.`,
         }
     },
         {
