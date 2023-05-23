@@ -54,7 +54,7 @@ var data = [
     {
         id: `a-presenteer-jezelf`,
         nederlands: {
-            titel: `Bepaal: ANONIEM of niet?`,
+            titel: `Presenteer jezelf als welzijn in je vinger`,
             beschrijving: `Schrijf een korte boodschap om jezelf voor te stellen zodat de rest van je vinger weet wie de welzijnsrebellen in hun vingers zijn. `,
             toelichting: `Er is een voorbeeld dat werd gedeeld in het welzijn Telegram dat je kunt gebruiken. Als je wilt, kun je ook rebellen die zich gestrest voelen voor de actie aanbieden om een praatje met ze te maken (werkt als je zelf een beetje ervaren bent).`,
         },
