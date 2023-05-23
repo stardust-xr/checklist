@@ -15,7 +15,7 @@ var data = [
     {
         id: `a-vingergroep`,
         nederlands: {
-            titel: `Ga in de VINGERGROEP`,
+            titel: `Zorg ervoor dat je in een VINGER signaalgroep zit`,
             beschrijving: `Dat is de signal groep waar je als het goed is al in zit. Zo niet, neem dan contact op met Stardust!`,
             toelichting: `Bij grote acties wordt er soms gewerkt met 'vingers': dat zijn groepen die samen voorbereiden en naar de actielocatie lopen. Dit vergroot de veiligheid en de kans dat zo veel mogelijk rebellen op de actie aankomen.`,
         },
@@ -25,69 +25,43 @@ var data = [
             toelichting: `Larger actions sometimes use 'fingers'. These are groups that prepare for the action together and move towards the place of action together. This increases security and our chances of success.`,
         }
     },
-        {
-        id: `a-actieconsensus`,
+    {
+        id: `a-welzijntraining`,
         nederlands: {
-            titel: `Lees de ACTIECONSENSUS`,
-            beschrijving: `Dit is heel belangrijk. Lees de actie consessus zorgvuldig. Als je het ergens niet mee eens ben, GA DAN NIET MEE. <a href="https://cloud.extinctionrebellion.nl/index.php/s/4WWr9DeXaQamSCJ">Je kunt het hier lezen.</a>`,
-            toelichting: `De actie consensus bevat de basis van alle voorwaarden die we hebben afgesproken als Extinction Rebellion. `,
+            titel: `Volg een WELZIJN TRAINING`,
+            beschrijving: `Als je dat al eerder hebt gedaan, hoeft dat niet nogmaals. Als u er geen kunt volgen, doe dan donderdag na de briefing mee aan de spoedcursus welzijn.`,
+            toelichting: `U kunt ook de dia's van dit document doornemen (bekijk de aantekeningen van de spreker) om de belangrijkste informatie te krijgen: https://xrb.link/ez8Ht2Qu.`,
         },
         engels: {
-            titel: `Read the ACTION CONSESUS`,
-            beschrijving: `This is very important. Read the action consensus carefully. If you don't agree, DON'T JOIN. <a href="https://cloud.extinctionrebellion.nl/index.php/s/4WWr9DeXaQamSCJ">You can read it here</a>`,
-            toelichting: `The Action Consensus contains all the conditions we agreed upon as Extinction Rebellion.`,
+            titel: `Do a wellbeing TRAINING`,
+            beschrijving: `If you've done one before, you don't need to do it again. In case you cannot follow one join the wellbeing crash course this Thursday right after the briefing.`,
+            toelichting: `You can also read go through the slides (check the speaker notes) of this document to get the most important information : https://xrb.link/ez8Ht2Qu.`,
         }
     },
     {
-        id: `a-actietraining`,
+        id: `a-groen-hesje`,
         nederlands: {
-            titel: `Volg een ACTIETRAINING`,
-            beschrijving: `<a href="https://extinctionrebellion.nl/events/?organizer&category=Actietraining">Hier staat een overzicht</a> van alle actietrainingen die nog gegeven worden.`,
-            toelichting: `Dit heet ook wel een "non violent direct action training". Als je dat al eerder hebt gedaan, hoeft dat niet nogmaals. Maar als je nieuw bent, is een actietraining heel belangrijk.`,
+            titel: `Haal en breng een GROEN HESJE`,
+            beschrijving: `Als je een groen vest hebt, of iemand kent die je eigen vest mee kan nemen (misschien even checken), geweldig! Zo niet, dan neemt Dandelion contact met je op. Maak per vinger plannen wie de vesten kan krijgen en van waar`,
+            toelichting: `Als je er geen hebt en er is nog geen contact met je opgenomen, stuur dan een bericht naar Dandelion +33 6 37 66 33 23 om iets te regelen.`,
         },
         engels: {
-            titel: `Do an ACTION TRAINING`,
-            beschrijving: `<a href="https://extinctionrebellion.nl/events/?organizer&category=Actietraining">Here is an overview</a> of all the trainings being organised.`,
-            toelichting: `This is also called a "Non Violent Direct Action training". If you've done one before, you don't need to do it again. However, if this is your first action, this training is very important and you shouldn't join if you haven't participated in one.`,
+            titel: `Get and bring a GREEN VEST`,
+            beschrijving: `If you have a green vest, or know someone that can bring you own (maybe double check with them), great! If not, Dandelion will contact you about it. Make plans per finger of who can get the vests and from where`,
+            toelichting: `If you don't have one and haven't been contacted yet, please send a message to Dandelion +33 6 37 66 33 23 to arrange something`,
         }
     },
     {
-        id: `a-legal-handout`,
-        nederlands: {
-            titel: `Lees de LEGAL HANDHOUT`,
-            beschrijving: `De legal handout <a href="https://cloud.extinctionrebellion.nl/index.php/s/H5BJkpPJTwkEgkM">staat hier</a>.`,
-            toelichting: `Hierin staan antwoorden op vragen zoals: Wat zijn de legale consequenties? Wanneer bel ik een advocaat? Betekent dit iets voor mijn strafblad?`,
-        },
-        engels: {
-            titel: `Read the LEGAL HANDOUT`,
-            beschrijving: `The legal handout <a href="https://cloud.extinctionrebellion.nl/index.php/s/H5BJkpPJTwkEgkM">can be read here</a>.`,
-            toelichting: `This handout answers questions like: What are the legal consequenses? When do I call a laywer?`,
-        }
-    },
-    {
-        id: `a-risico-niveau`,
-        nederlands: {
-            titel: `Bepaal: HIGH RISK of LOW RISK`,
-            beschrijving: `Twijfel je? Bespreek de voor- en nadelen met anderen.`,
-            toelichting: `Het is prettig om een "Plan A" te hebben. Zodat je weet wat je wil, ook in hectische situaties.<br/>Bij low risk zeg je: "ik ga weg als de politie vordert". De kans dat je gearresteerd wordt, is dan heel klein.`,
-        },
-        engels: {
-            titel: `Commit: HIGH RISK or LOW RISK`,
-            beschrijving: `You can discuss this with others if you're still on the fence. If you don't know what this means, ask your finger!`,
-            toelichting: `We always recommend you have a clear plan. If you make that decision early, you won't be confronted by it in a stressful and hectic situation.`,
-        }
-    },
-    {
-        id: `a-anonimiteit`,
+        id: `a-presenteer-jezelf`,
         nederlands: {
             titel: `Bepaal: ANONIEM of niet?`,
-            beschrijving: `Er zijn diverse voor- en nadelen dus laat je vooral goed informeren. <a href="https://cloud.extinctionrebellion.nl/index.php/s/rCEXNxeaTrXQfX6">Hier is een document met informatie over anonimiteit</a>`,
-            toelichting: `Als je anoniem gaat, neem dan ook geen spullen mee met jou naam er op. Dus ook geen bankpas of OV-chipkaart op naam.`,
+            beschrijving: `Schrijf een korte boodschap om jezelf voor te stellen zodat de rest van je vinger weet wie de welzijnsrebellen in hun vingers zijn. `,
+            toelichting: `Er is een voorbeeld dat werd gedeeld in het welzijn Telegram dat je kunt gebruiken. Als je wilt, kun je ook rebellen die zich gestrest voelen voor de actie aanbieden om een praatje met ze te maken (werkt als je zelf een beetje ervaren bent).`,
         },
         engels: {
-            titel: `Commit: HIGH RISK or LOW RISK`,
-            beschrijving: `There are various pros and cons for anonymity, so inform yourself well. <a href="https://cloud.extinctionrebellion.nl/index.php/s/rCEXNxeaTrXQfX6">There is a document with information here</a>`,
-            toelichting: `If you go anonymous, don't bring any stuff with your name on it. That also means no banking or OV cards.`,
+            titel: `Present yourself as wellbeing in your finger`,
+            beschrijving: `Write a short message to present yourself so the rest of your finger knows who the wellbeing rebels in their fingers are.`,
+            toelichting: `There is an example that was shared in the wellbeing Telegram that you can use. If you want to, you can also offer rebels who feel stressed before the action to have a chat with them (works if you are yourself a bit experienced).`,
         }
     },
     {
