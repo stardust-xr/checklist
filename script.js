@@ -30,12 +30,12 @@ var data = [
         nederlands: {
             titel: `Volg een WELZIJN TRAINING`,
             beschrijving: `Als je dat al eerder hebt gedaan, hoeft dat niet nogmaals. Als u er geen kunt volgen, doe dan donderdag na de briefing mee aan de spoedcursus welzijn.`,
-            toelichting: `U kunt ook de dia's van dit document doornemen (bekijk de aantekeningen van de spreker) om de belangrijkste informatie te krijgen: https://xrb.link/ez8Ht2Qu.`,
+            toelichting: `U kunt ook de dia's van dit document doornemen (bekijk de aantekeningen van de spreker) om de belangrijkste informatie te krijgen: https://xrb.link/FS0O5pL.`,
         },
         engels: {
             titel: `Do a wellbeing TRAINING`,
             beschrijving: `If you've done one before, you don't need to do it again. In case you cannot follow one join the wellbeing crash course this Thursday right after the briefing.`,
-            toelichting: `You can also read go through the slides (check the speaker notes) of this document to get the most important information : https://xrb.link/ez8Ht2Qu.`,
+            toelichting: `You can also read go through the slides (check the speaker notes) of this document to get the most important information : https://xrb.link/FS0O5pL.`,
         }
     },
     {
