@@ -65,107 +65,55 @@ var data = [
         }
     },
     {
-        id: `a-algemene-briefing`,
+        id: `a-welzijn-briefing`,
         nederlands: {
             titel: `Volg de ALGEMENE BRIEFING`,
-            beschrijving: `Dit is een online zoom-meeting en duurt een uur.<br/>Engels: di 23 mei 20:30. Nederlands: wo 24 mei 20:30. Een zoom-link volgt op de dag zelf, via de <em>algemene broadcast</em>.`,
-            toelichting: `De algemene briefing geeft een laatste update en herhaalt de belangrijkste punten. Het is een zoom-meeting met honderden deelnemers, dus er is niet veel ruimte voor vragen.`,
+            beschrijving: ` Er zal een welzijnsbriefing van ongeveer een uur zijn op donderdag om 19 uur.`,
+            toelichting: `De briefing zal de belangrijkste punten over welzijn voor de A12 bevatten. Als u niet aanwezig kunt zijn, raadpleeg dan dit document: https://xrb.link/E1C22ER2Aa8`,
         },
         engels: {
-            titel: `Follow the GENERAL BRIEFINGS`,
-            beschrijving: `There will be a general zoom-meeting which will take about an hour.<br/><b>The English briefing is 23rd of may at 20:30</b>.<br/>A zoom link will be shared in the broadcast channel`,
-            toelichting: `The general briefing provides the most recent updates and repeats the most import points. It's huge zoom meeting, so there's not a lot of time for questions. If you have remaining questions, you can always ask them in your finger group.`,
+            titel: `Follow the WELLBEIN BRIEFING`,
+            beschrijving: `There will be a wellbeing briefing of about an hour on Thursday at 19H`,
+            toelichting: `The briefing will present the most important points about wellbeing for the A12. If you cannot attend please check this document: https://xrb.link/E1C22ER2Aa8`,
         }
     },
     {
-        id: `a-vingerbriefing`,
+        id: `a-rol`,
         nederlands: {
-            titel: `Volg de VINGERBRIEFING`,
-            beschrijving: `In de signal groep van je vinger wordt er gedeeld of er ook nog een aparte vinger briefing zal worden gehouden. Houd de groep in de gaten en doe hieraan mee!`,
-            toelichting: `In deze briefing bespreken we het plan voor onze vinger, waaronder de verzamellocatie en aanlooproute. Bovendien is er tijd voor vragen, en kunnen er nog buddies gemaakt worden.`,
+            titel: `Kies een rol`,
+            beschrijving: `Ga door de lijst van rollen en vind iets dat geschikt lijkt voor u.`,
+            toelichting: `Coördineer met het andere welzijn in je vinger om te beslissen wie de snacks mag kopen, en hoe je ze met elkaar wilt verdelen.`,
         },
         engels: {
-            titel: `Join the FINGER BRIEFING`,
-            beschrijving: `In the signal group of your finger, the date and time of the finger briefing will be shared. Please join this briefing for your specific meeting location and more information.`,
-            toelichting: `In this briefing more specific information about your finger and where to meet will be shared. Also, this is place to get a buddy for the action and there is time for questions`,
+            titel: `Choose a role`,
+            beschrijving: `Go through the list of roles and find something that seem suitable for you`,
+            toelichting: `Coordinate with the other wellbeing in your finger to decide who can buy the snacks, and how you want to distribute it with one another`,
         }
     },
     {
-        id: `a-rst-nummer`,
+        id: `tas`,
         nederlands: {
-            titel: `Trek een RST-NUMMER`,
-            beschrijving: `Er wordt nog een link gepost waar je een nummer kan trekken. Dat nummer is jouw arrestanten-nummer of RST ("arrestee")-nummer. Doe dit altijd, ook als je low-risk gaat.`,
-            toelichting: `Het RST-nummmer dat je hebt getrokken moet je in het RST formulier invullen. Trek maar 1 keer een nummer en onthoud deze goed!`,
+            titel: `Pak je tas in`,
+            beschrijving: `Pak uw tas in volgens de rol die u gaat vervullen`,
+            toelichting: `Bekijk hier de paklijst voor welzijn en vergeet niet in te pakken volgens de algemene paklijst https://xrb.link/Hb8eGq`,
         },
         engels: {
-            titel: `Get and RST-NUMBER`,
-            beschrijving: `A link will be shared where you can get an RST-NUMBER. This is your individual arrestee number, remember it carefully and use it in the RST form. Always get one, also if you're low-risk.`,
-            toelichting: `The RST number is used to connect you anonymously to who you are. Only RST support knows who is associated with what number, and will delete this information afterwards. `,
+            titel: `Pack your bag`,
+            beschrijving: `Pack your bag according to the role you are planning to do`,
+            toelichting: `Check the packing list here for wellbeing and don't forget to pack according to the general packing list https://xrb.link/Hb8eGq `,
         }
     },
-        {
-        id: `a-rst-form`,
-        nederlands: {
-            titel: `Vul het RST formulier in!`,
-            beschrijving: `In de algemene briefing zal er een link worden gedeeld met het arrestanten-formulier. Vul deze zo snel mogelijk in! Deze informatie wordt ook gebruikt om je helpen en te zorgen dat iedereen veilig blijft`,
-            toelichting: `Je RST-nummer zorgt er voor dat arrestee-support jou kan traceren. Zo weten ze of er nog rebellen vast zitten. Achter de schermen werkt RST-support er hard aan om iedereen weer vrij te krijgen.`,
-        },
-        engels: {
-            titel: `Fill in the RST-form!`,
-            beschrijving: `In the general briefing and in the broadcast channel the RST form will be shared. Submit this form as soon as you can. This information is used to keep you secure and safe.`,
-            toelichting: `The rst information is used to trace you during the action. In this way RST support knows if people are still being detained. RST support is working very hard to get you out and support you!`,
-        }
-    },
-    {
-        id: `a-tas-inpakken`,
-        nederlands: {
-            titel: `Pak je TAS in`,
-            beschrijving: `Een paklijst wordt gedeeld tijdens de <em>algemene briefing</em>. <a href="https://cloud.extinctionrebellion.nl/index.php/s/q7aNEgnGcZyo52Q">Maar hier is een link naar een algemene paklijst.</a> `,
-            toelichting: `Denk in elk geval aan: warme kleren, eten, drinken, geld, ID-kaart*, OV-kaart*. Géén dierbare bezittingen. Géén wapens, géén drugs.<br/>* niet als je anoniem gaat`,
-        },
-        engels: {
-            titel: `Pack your BAG!`,
-            beschrijving: `A packing list will be shared during the general briefing. <a href="https://cloud.extinctionrebellion.nl/index.php/s/q7aNEgnGcZyo52Q">Here is a link to the general packing list</a>`,
-            toelichting: `Make sure you at least have enough warm clothing, food and water to support yourself for the day. Don't take any alcohol, drugs or things that are very precious to you.`,
-        }
-    },
-    {
-        id: `a-plan-treinreis`,
-        nederlands: {
-            titel: `Plan je (TREIN)REIS`,
-            beschrijving: `Een reisadvies volgt.`,
-            toelichting: `Houd rekening met eventuele vertragingen. Reis in kleine groepjes.`,
-        },
-        engels: {
-            titel: `Plan your JOURNEY`,
-            beschrijving: `Most fingers will share some travel advice`,
-            toelichting: `Some delays might happen with public transport, take those into account! Try to travel in small groups.`,
-        }
-    },
-    {
-        id: `a-watervaste-stift`,
-        nederlands: {
-            titel: `Schrijf dit op je LICHAAM`,
-            beschrijving: `Schrijf met <em>watervaste stift</em> twee dingen duidelijk op je lichaam:<br/>1. naam van de advocaat.<br/>2. Je RST-nummer.`,
-            toelichting: `De naam van de advocaat wordt later bekendgemaakt.`,
-        },
-        engels: {
-            titel: `Write this on your BODY`,
-            beschrijving: `Use a permanent marker to write these two things on your body:<br/>1. Name of your lawyer.<br/>2. Your RST-Number`,
-            toelichting: `The name of your laywer will be shared in your finger or on the RST-form`,
-        }
-    },
-    {
+     {
         id: `a-zen`,
         nederlands: {
             titel: `Je bent er KLAAR voor!`,
             beschrijving: `Neem nog wat rust. Bedenk waarom je het ook alweer doet. We hebben een goed verhaal, we zijn met z'n duizenden. Misschien vind je het spannend. Maar het wordt ook heel gaaf.`,
-            toelichting: `Tot snel :)`,
+            toelichting: `Vergeet niet eerst voor jezelf te zorgen, en het is altijd goed om pauzes te nemen!`,
         },
         engels: {
             titel: `You are READY to go!`,
             beschrijving: `Take a deep breath, remember why you are doing this. We're doing this for an important cause, and we're getting more support everyday. Try to also have fun!`,
-            toelichting: `We'll see you soon!`,
+            toelichting: `Remember to take care of yourself first, and it is always ok to take breaks!`,
         }
     },
 ]
