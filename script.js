@@ -67,12 +67,12 @@ var data = [
     {
         id: `a-welzijn-briefing`,
         nederlands: {
-            titel: `Volg de ALGEMENE BRIEFING`,
+            titel: `Volg de WELZIJN BRIEFING`,
             beschrijving: ` Er zal een welzijnsbriefing van ongeveer een uur zijn op donderdag om 19 uur.`,
             toelichting: `De briefing zal de belangrijkste punten over welzijn voor de A12 bevatten. Als u niet aanwezig kunt zijn, raadpleeg dan dit document: https://xrb.link/E1C22ER2Aa8`,
         },
         engels: {
-            titel: `Follow the WELLBEIN BRIEFING`,
+            titel: `Follow the WELLBEING BRIEFING`,
             beschrijving: `There will be a wellbeing briefing of about an hour on Thursday at 19H`,
             toelichting: `The briefing will present the most important points about wellbeing for the A12. If you cannot attend please check this document: https://xrb.link/E1C22ER2Aa8`,
         }
