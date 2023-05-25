@@ -82,12 +82,12 @@ var data = [
         nederlands: {
             titel: `Informeer u over de verschillende SCENARIOS`,
             beschrijving: `Zorg ervoor dat u hebt gecontroleerd hoe u met sommige van de mogelijke scenario's omgaat en dat u enkele manieren kent om met stress om te gaan.`,
-            toelichting: `Controleer deze twee documenten, de eerste kan worden gedeeld: https://xrb.link/po9ELZ2w, de tweede niet: https://xrb.link/td553I2`,
+            toelichting: `Controleer deze twee documenten, de eerste kan worden gedeeld: https://xrb.link/po9ELZ2w de tweede niet: https://xrb.link/td553I2`,
         },
         engels: {
             titel: `Inform yourself of the different SCENARIOS`,
             beschrijving: `Make sure to have checked how to deal with some of the possible scenarios and know some ways to deal with stress`,
-            toelichting: `Check those two documents, first one can be shared: https://xrb.link/po9ELZ2w, second one not: https://xrb.link/td553I2`,
+            toelichting: `Check those two documents, first one can be shared: https://xrb.link/po9ELZ2w second one not: https://xrb.link/td553I2`,
         }
     },
     {
